@@ -1,4 +1,6 @@
 
+## ⚡ Technologies
+
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
@@ -16,7 +18,7 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-sajal_tiwari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sajal-tiwari-0b420616b/)](https://www.linkedin.com/in/sajal-tiwari-0b420616b/)
-[![Instagram Badge](https://img.shields.io/badge/-s_a_j_a_l_18-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/s\_a_j_a_l_18/)](https://instagram.com/s_a_j_a_l_18)
+[![Instagram Badge](https://img.shields.io/badge/-s_a_j_a_l_18-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/s_a_j_a_l_18/)](https://instagram.com/s_a_j_a_l_18)
 [![Gmail Badge](https://img.shields.io/badge/-sajaltiwari003@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sajaltiwari003@gmail.com)](mailto:sajaltiwari003@gmail.com)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Anonymous7code)  
