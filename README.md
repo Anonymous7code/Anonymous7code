@@ -39,10 +39,6 @@
 
 ## 🗂️ Highlight Projects
 
-<a href="https://github.com/Zhenye-Na/DA-RNN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=DA-RNN&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="DA-RNN" />
-</a>
-
 <a href="https://github.com/Anonymous7code/Machine-Learning">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anonymous7code&repo=Machine-Learning&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Machine-Learning" />
 </a>
