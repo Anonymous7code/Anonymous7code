@@ -12,9 +12,13 @@
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/DB-SQL-informational?style=flat&logo=sql&logoColor=white&color=6aa6f8)
 <br>
+
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+
 ![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=6aa6f8)
+
 ![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Framework-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=6aa6f8)
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
