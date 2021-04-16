@@ -26,9 +26,6 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
-![anonymous7code's github stats](https://github-readme-stats.vercel.app/api?username=anonymous7code&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anonymous7code&hide=TeX&layout=compact&theme=tokyonight)
-
 - 👋 Hi, I’m @Anonymous7code
 - 👀 I’m interested in AI ML
 - 🌱 I’m currently learning Deep Learning
@@ -54,6 +51,13 @@
 <a href="https://github.com/Zhenye-Na/crnn-pytorch">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=crnn-pytorch&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="crnn-pytorch" />
 </a>
+
+## 🗂️ Profile Stats
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=anonymous7code&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anonymous7code&hide=TeX&layout=compact&theme=tokyonight)
+
+
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Anonymous7code)  
 <!---
