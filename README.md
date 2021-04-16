@@ -8,7 +8,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anonymous7code&hide=TeX&layout=compact)
 - 👋 Hi, I’m @Anonymous7code
 - 👀 I’m interested in Ai ML
 - 🌱 I’m currently learning Deep Learning
