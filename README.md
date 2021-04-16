@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-sajal_tiwari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sajal-tiwari-0b420616b/)](https://www.linkedin.com/in/sajal-tiwari-0b420616b/)
 [![Instagram Badge](https://img.shields.io/badge/-s_a_j_a_l_18-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/s_a_j_a_l_18/)](https://instagram.com/s_a_j_a_l_18)
 [![Gmail Badge](https://img.shields.io/badge/-sajaltiwari003@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sajaltiwari003@gmail.com)](mailto:sajaltiwari003@gmail.com)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/anonymous7code/)
 ## ⚡ Technologies
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
