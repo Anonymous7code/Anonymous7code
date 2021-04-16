@@ -9,9 +9,9 @@
 ## ⚡ Technologies
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
-
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/DB-SQL-informational?style=flat&logo=sql&logoColor=white&color=6aa6f8)
+<br>
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=6aa6f8)
