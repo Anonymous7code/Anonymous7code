@@ -14,6 +14,11 @@
 - 📫 How to reach me -- Mail : sajaltiwari003@gmail.com
 
 
+
+[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sajal-tiwari-0b420616b/)](https://www.linkedin.com/in/sajal-tiwari-0b420616b/)
+[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/s_a_j_a_l_18/)](https://instagram.com/s_a_j_a_l_18)
+[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sajaltiwari003@gmail.com)](mailto:sajaltiwari003@gmail.com)
+
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Anonymous7code)  
 <!---
 Anonymous7code/Anonymous7code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
