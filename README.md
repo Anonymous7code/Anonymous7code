@@ -1,5 +1,16 @@
-
+# Hello there 👋
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 ## ⚡ Technologies
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
@@ -12,16 +23,30 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anonymous7code&hide=TeX&layout=compact&theme=tokyonight)
 
 - 👋 Hi, I’m @Anonymous7code
-- 👀 I’m interested in Ai ML
+- 👀 I’m interested in AI ML
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on ML stuff
-- 📫 How to reach me -- Mail : sajaltiwari003@gmail.com
+<!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-727-blue)
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-sajal_tiwari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sajal-tiwari-0b420616b/)](https://www.linkedin.com/in/sajal-tiwari-0b420616b/)
 [![Instagram Badge](https://img.shields.io/badge/-s_a_j_a_l_18-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/s_a_j_a_l_18/)](https://instagram.com/s_a_j_a_l_18)
 [![Gmail Badge](https://img.shields.io/badge/-sajaltiwari003@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sajaltiwari003@gmail.com)](mailto:sajaltiwari003@gmail.com)
+
+## 🗂️ Highlight Projects
+
+<a href="https://github.com/Zhenye-Na/DA-RNN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=DA-RNN&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="DA-RNN" />
+</a>
+
+<a href="https://github.com/Zhenye-Na/crnn-pytorch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=crnn-pytorch&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="crnn-pytorch" />
+</a>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Anonymous7code)  
 <!---
