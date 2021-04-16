@@ -8,8 +8,8 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 <p>
-![anonymous7code's github stats](https://github-readme-stats.vercel.app/api?username=anonymous7code&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anonymous7code&hide=TeX&layout=compact&theme=dracula)
+![anonymous7code's github stats](https://github-readme-stats.vercel.app/api?username=anonymous7code&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anonymous7code&hide=TeX&layout=compact&theme=tokyonight)
 </p>
 - 👋 Hi, I’m @Anonymous7code
 - 👀 I’m interested in Ai ML
