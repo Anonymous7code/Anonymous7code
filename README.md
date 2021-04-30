@@ -43,6 +43,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anonymous7code&repo=Machine-Learning&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Machine-Learning" />
 </a>
 
+<a href="https://github.com/Anonymous7code/SocialBlock">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anonymous7code&repo=SocialBlock&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Social-Network" />
+</a>
+
 ## 🗂️ Profile Stats
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=anonymous7code&show_icons=true&theme=tokyonight)
