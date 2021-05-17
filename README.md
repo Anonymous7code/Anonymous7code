@@ -47,7 +47,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anonymous7code&repo=SocialBlock&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Social-Network" />
 </a>
 
-<!-- ## 🗂️ Profile Stats -->
+## 🗂️ Profile Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anonymous7code&hide=TeX&layout=compact&theme=tokyonight)
 <!-- 
