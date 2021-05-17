@@ -1,6 +1,6 @@
-# Hi there, I'm SAJAL - aka [Anonymous7code][website] 👋
-
+# Hi there, I'm SAJAL - aka [Anonymous7code][Website] 👋
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://anonymous7code.github.io/RiDit)
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 [![Linkedin Badge](https://img.shields.io/badge/-sajal_tiwari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sajal-tiwari-0b420616b/)](https://www.linkedin.com/in/sajal-tiwari-0b420616b/)
