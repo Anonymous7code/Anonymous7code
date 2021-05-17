@@ -47,12 +47,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anonymous7code&repo=SocialBlock&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Social-Network" />
 </a>
 
-## 🗂️ Profile Stats
+<!-- ## 🗂️ Profile Stats -->
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=anonymous7code&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anonymous7code&hide=TeX&layout=compact&theme=tokyonight)
+<!-- 
+![Github stats](https://github-readme-stats.vercel.app/api?username=anonymous7code&show_icons=true&theme=tokyonight)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Anonymous7code)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Anonymous7code) -->
 
 <!---
 Anonymous7code/Anonymous7code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
