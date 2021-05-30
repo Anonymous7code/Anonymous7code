@@ -35,7 +35,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="60">
     </td>
 <td align='center' width="190">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="60" style="filter:invert;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="60">
     </td>
 <td align='center' width="190">
         <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" width="60">
@@ -50,70 +50,23 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="60">
     </td>
 <td align='center' width="190">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="60">
+        <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="60">
     </td>
 <td align='center' width="190">
-        <img src="hhttps://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="60">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Devicon-html5-plain.svg" width="60">
     </td>
 <td align='center' width="190">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="60">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="60">
     </td>
     
 </tr>
 </table>
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Anonympus7code&show_icons=true&theme=synthwave" alt="Anonymous7code" /> </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupam-Shil&theme=synthwave">
+<img align="right" height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=Anonymous7code&theme=synthwave">
+</p>
+<img src="https://activity-graph.herokuapp.com/graph?username=Anonymous7code&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
 
 [![Linkedin Badge](https://img.shields.io/badge/-sajal_tiwari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sajal-tiwari-0b420616b/)](https://www.linkedin.com/in/sajal-tiwari-0b420616b/)
 [![Instagram Badge](https://img.shields.io/badge/-s_a_j_a_l_18-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/s_a_j_a_l_18/)](https://instagram.com/s_a_j_a_l_18)
