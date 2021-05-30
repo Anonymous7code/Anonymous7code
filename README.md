@@ -66,42 +66,21 @@
 <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupam-Shil&theme=synthwave">
 <img align="right" height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=Anonymous7code&theme=synthwave">
 </p>
-<img src="https://activity-graph.herokuapp.com/graph?username=Anonymous7code&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
 
-[![Linkedin Badge](https://img.shields.io/badge/-sajal_tiwari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sajal-tiwari-0b420616b/)](https://www.linkedin.com/in/sajal-tiwari-0b420616b/)
+
+<p align="center">
+  <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
+
+  <p align="center">
+    [![Linkedin Badge](https://img.shields.io/badge/-sajal_tiwari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sajal-tiwari-0b420616b/)](https://www.linkedin.com/in/sajal-tiwari-0b420616b/)
 [![Instagram Badge](https://img.shields.io/badge/-s_a_j_a_l_18-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/s_a_j_a_l_18/)](https://instagram.com/s_a_j_a_l_18)
 [![Gmail Badge](https://img.shields.io/badge/-sajaltiwari003@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sajaltiwari003@gmail.com)](mailto:sajaltiwari003@gmail.com)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/anonymous7code/)
-
-## ⚡ Technologies
-
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/DB-SQL-informational?style=flat&logo=sql&logoColor=white&color=6aa6f8)
-<br>
-
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-
-![](https://img.shields.io/badge/Framework-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Module-Scipy-informational?style=flat&logo=scipy&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=6aa6f8)
-
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-
-- 👋 Hi, I’m @Anonymous7code
-- 👀 I’m interested in AI ML
-- 🌱 I’m currently learning Deep Learning
-- 💞️ I’m looking to collaborate on ML stuff
-  <!--START_SECTION:waka-->
-  ![Profile Views](http://img.shields.io/badge/Profile%20Views-727-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
+    
+    
+  </p>
+  
+</p>
 
 ## 🗂️ Highlight Projects
 
