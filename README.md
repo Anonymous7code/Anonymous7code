@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rupam Shil</h1>
+<h1 align="center">Hi 👋, it's SAJAL TIWARI</h1>
 <h3 align="center">&lt; I eat, I sleep Rest of the time I code &gt;</h3>
 
 
