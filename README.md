@@ -35,7 +35,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="60">
     </td>
 <td align='center' width="190">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="60" styel="filter:invert">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="60" style="filter:invert;">
     </td>
 <td align='center' width="190">
         <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" width="60">
