@@ -42,6 +42,24 @@
     </td>
     
 </tr>
+<tr>
+    <td align='center' width="190">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Ubuntu_and_Ubuntu_Server_Icon.png" width="60">
+    </td>
+<td align='center' width="190">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="60">
+    </td>
+<td align='center' width="190">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="60">
+    </td>
+<td align='center' width="190">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="60">
+    </td>
+<td align='center' width="190">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="60">
+    </td>
+    
+</tr>
 </table>
 
 
@@ -96,10 +114,6 @@
 
 
 
-
-# Hi there, I'm SAJAL 👋
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 [![Linkedin Badge](https://img.shields.io/badge/-sajal_tiwari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sajal-tiwari-0b420616b/)](https://www.linkedin.com/in/sajal-tiwari-0b420616b/)
 [![Instagram Badge](https://img.shields.io/badge/-s_a_j_a_l_18-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/s_a_j_a_l_18/)](https://instagram.com/s_a_j_a_l_18)
