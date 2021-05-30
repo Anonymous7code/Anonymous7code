@@ -1,3 +1,102 @@
+<h1 align="center">Hi 👋, I'm Rupam Shil</h1>
+<h3 align="center">&lt; I eat, I sleep Rest of the time I code &gt;</h3>
+
+
+
+
+
+- 🔭 I’m currently working on **Deep Learning**
+
+- 👯 I’m looking to collaborate on <a href="https://github.com/Anonymous7code/Machine-Learning"><strong>Machine Learning Projects</strong></a>
+
+- 👨‍💻 All of my projects are available at [https://github.com/Anonymous7code?tab=repositories](https://github.com/Anonymous7code?tab=repositories)
+
+
+- 💬 Ask me about **Machine-Learning, DeepLearning, Python**
+
+- 📫 How to reach me **sajaltiwari003@gmail.com**
+
+- ⚡ Follow me **https://www.instagram.com/s_a_j_a_l_18/**
+
+- 👨‍ Check me out **https://anonymous7code.github.io/RiDit/**
+
+
+
+<h2 align='center'><i>💻⚙ My Tech Stack  ⚙💻</i></h2>
+<table width="100">
+<tr>
+    <td align='center' width="190">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="60">
+    </td>
+<td align='center' width="190">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="60">
+    </td>
+<td align='center' width="190">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="60">
+    </td>
+<td align='center' width="190">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="60">
+    </td>
+<td align='center' width="190">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="60">
+    </td>
+    
+</tr>
+</table>
+
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Anonympus7code&show_icons=true&theme=synthwave" alt="Anonymous7code" /> </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Hi there, I'm SAJAL 👋
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
