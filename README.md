@@ -35,10 +35,10 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="60">
     </td>
 <td align='center' width="190">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="60">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="60" styel="filter:invert">
     </td>
 <td align='center' width="190">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="60">
+        <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" width="60">
     </td>
     
 </tr>
@@ -53,7 +53,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="60">
     </td>
 <td align='center' width="190">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="60">
+        <img src="hhttps://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="60">
     </td>
 <td align='center' width="190">
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="60">
