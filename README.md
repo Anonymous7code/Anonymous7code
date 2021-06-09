@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, it's SAJAL TIWARI</h1>
-<h3 align="center">&lt; I eat, I sleep Rest of the time I code &gt;</h3>
+<img scr='./Assets/Banner.gif'>
 
 
 
