@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, it's SAJAL TIWARI</h1>
 
-![Banner](https://github.com/Anonymous7code/Anonymous7code/blob/master/Assets/Banner.gif)
-
+![Name Banner](https://github.com/Anonymous7code/Anonymous7code/blob/master/Assets/Banner.gif)
 
 
 
