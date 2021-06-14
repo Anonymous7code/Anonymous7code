@@ -32,7 +32,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="60">
     </td>
 <td align='center' width="190">
-        <img src="https://www.kindpng.com/picc/m/355-3557482_flutter-logo-png-transparent-png.png" width="60">
+        <img src="https://d3mds3ychln71.cloudfront.net/img/flutter-logo@3x.png" width="60">
     </td>
 <td align='center' width="190">
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="60">
