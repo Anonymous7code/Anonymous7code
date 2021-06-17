@@ -74,7 +74,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Devicon-html5-plain.svg" width="60">
     </td>
 <td align='center' width="190">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="60">
+        <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" width="60">
     </td>
     
 </tr>
