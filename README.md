@@ -71,7 +71,7 @@
         <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="60">
     </td>
 <td align='center' width="190">
-        <img src="https://cdn.freelogovectors.net/wp-content/uploads/2017/04/power_bi-logo.png" width="60">
+        <img src="https://cdn.freelogovectors.net/wp-content/uploads/2017/04/power_bi-logo.png" style="filter:invert()" width="60">
     </td>
 <td align='center' width="190">
         <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" width="60">
