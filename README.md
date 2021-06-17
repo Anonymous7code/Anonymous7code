@@ -35,7 +35,7 @@
         <img src="https://d3mds3ychln71.cloudfront.net/img/flutter-logo@3x.png" width="60">
     </td>
 <td align='center' width="190">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="60">
+        <img src="https://cdn.freebiesupply.com/logos/large/2x/flask-logo-png-transparent.png" width="60">
     </td>
 <td align='center' width="190">
         <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" width="60">
