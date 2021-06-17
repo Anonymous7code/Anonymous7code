@@ -60,6 +60,24 @@
     </td>
     
 </tr>
+<tr>
+    <td align='center' width="190">
+        <img src="https://www.freepnglogos.com/uploads/javascript/javascript-online-logo-for-website-0.png" width="60">
+    </td>
+<td align='center' width="190">
+        <img src="https://www.php.net/images/logos/new-php-logo.svg" width="60">
+    </td>
+<td align='center' width="190">
+        <img src="https://www.mysql.com/common/logos/logo-mysql.eps" width="60">
+    </td>
+<td align='center' width="190">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Devicon-html5-plain.svg" width="60">
+    </td>
+<td align='center' width="190">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="60">
+    </td>
+    
+</tr>
 </table>
 
 
