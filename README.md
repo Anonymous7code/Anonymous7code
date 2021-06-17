@@ -68,7 +68,7 @@
         <img src="https://www.php.net/images/logos/new-php-logo.svg" width="60">
     </td>
 <td align='center' width="190">
-        <img src="https://www.mysql.com/common/logos/logo-mysql.eps" width="60">
+        <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="60">
     </td>
 <td align='center' width="190">
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Devicon-html5-plain.svg" width="60">
