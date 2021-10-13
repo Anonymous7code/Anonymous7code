@@ -18,7 +18,7 @@
 
 - ⚡ Follow me **https://www.instagram.com/s_a_j_a_l_18/**
 
-- 👨‍ Check me out **https://anonymous7code.github.io/RiDit/**
+- 👨‍ Check me out **https://anonymous7code.github.io/Portfolio/**
 
 
 
